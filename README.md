@@ -1,1 +1,1 @@
-# Strong-Password
+# Strong-Password This code checks a password for missing character types (lowercase, uppercase, digit, special) and calculates how many characters need to be added to make it strong and at least 6 characters long. It then returns the maximum of missing types or characters needed to reach the minimum length.
